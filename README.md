@@ -1,3 +1,3 @@
 # hello-world
 Learning on github
-It's an intrestin platform to work on
+It's an intresting platform to work on
